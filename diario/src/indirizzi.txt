@@ -1,0 +1,12 @@
+dashboard/diario/src/components/ListaAttività.tsx
+dashboard/diario/src/components/FormExtrascolastica.tsx
+dashboard/diario/src/components/FormUda.tsx
+dashboard/diario/src/components/FormStudio.tsx
+dashboard/diario/src/components/DiarioHome.tsx
+dashboard/diario/src/App.css
+dashboard/diario/src/lib/supabase.tsx
+
+
+
+
+
